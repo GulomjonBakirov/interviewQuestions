@@ -19,7 +19,7 @@ import Question9 from "./components/Question9";
 function App() {
   return (
     <div className="container text-center">
-      <h4>Javoblar</h4>
+      <h4>Solutions</h4>
       <p style={{ marginTop: "15px" }}>1 va 2 yechimlari</p>
       <Question1 />
       <p style={{ marginTop: "15px" }}>3 yechimi</p>
